@@ -69,6 +69,7 @@ How do breakdowns or delays vary across different seasons?
 
     Delays: There is a large spike at the start of the School Year in the Autumn, with a sharp decline
             before evening out through Winter into the Spring, followed by a decline into the Summer.
+            
     Breakdowns: In an almost identical fashion to the delays, breakdowns follow the exact same trend
                 through the year and could be related to each other.
 
