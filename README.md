@@ -1,10 +1,18 @@
 Project Title - NYC Bus Breakdown and Delay Analysis: Understanding the Key Factors Behind Transit Disruptions
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Project Description - This project analyzes the causes and patterns behind bus delays and breakdowns across New York City. By exploring multiple factors such as bus company, borough, routes, and causal variations, I identified key drivers of delays and breakdowns recommending strategies for improving public transit efficiency.
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Motivation - The NYC transit system is essential for millions of daily commuters. Understanding the causes of delays and breakdowns can lead to better planning, efficient resource allocation, and improved service. This project focuses on uncovering the factors behind delays and breakdowns in the city's bus system, ultimately aiming to contribute to a smoother, more reliable public transportation experience.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Data Source - The dataset was sourced from the NYC Open Data - Bus Breakdown & Delays (DOE) (https://data.cityofnewyork.us/Transportation/Bus-Breakdown-and-Delays/ez4e-fazm/about_data), containing detailed records of bus delays and breakdowns by route, bus company, borough, and weather conditions.
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Questions Answered / Objectives - The main questions explored in this project were:
 
@@ -14,7 +22,11 @@ Questions Answered / Objectives - The main questions explored in this project we
 4. Are certain bus routes more prone to delays or breakdowns than others?
 5. How do breakdowns or delays vary across different seasons?
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Methodology - To answer the questions, I followed these steps: - Data Preprocessing: Cleaned the dataset by handling missing values, outliers, and converting time-related columns into usable formats. - Exploratory Data Analysis (EDA): Used descriptive statistics, group-by operations, and visualizations (e.g., bar charts, heatmaps) to identify patterns. - Statistical Analysis: Applied forecasting and hypothesis testing to determine if certain factors significantly influenced delays and breakdowns.
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Results & Insights -
 
@@ -73,9 +85,15 @@ How do breakdowns or delays vary across different seasons?
     Breakdowns: In an almost identical fashion to the delays, breakdowns follow the exact same trend
                 through the year and could be related to each other.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Key Visualizations - 
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Technologies & Tools - 
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Future Improvements - 
 
