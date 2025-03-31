@@ -41,6 +41,13 @@ Key Visualizations -
 
 ![Screenshot 2025-03-31 143654](https://github.com/user-attachments/assets/79c76598-d47e-4027-b247-7a95dec039e8)
 
+![Screenshot 2025-03-31 143714](https://github.com/user-attachments/assets/7e875496-4840-48ac-b33e-b26f4237b2cd)
+
+![Screenshot 2025-03-31 143735](https://github.com/user-attachments/assets/ac00e093-f316-446e-8d59-2246642db020)
+
+![Screenshot 2025-03-31 143753](https://github.com/user-attachments/assets/7183666c-d7b1-46f7-a9af-8d14f51c9ad9)
+
+![Screenshot 2025-03-31 143814](https://github.com/user-attachments/assets/79e3a3d7-3184-4aa5-8ca5-c64578e7e3de)
 
 Technologies & Tools - 
 
