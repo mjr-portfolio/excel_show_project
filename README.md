@@ -6,7 +6,13 @@ Motivation - The NYC transit system is essential for millions of daily commuters
 
 Data Source - The dataset was sourced from the NYC Open Data - Bus Breakdown & Delays (DOE) (https://data.cityofnewyork.us/Transportation/Bus-Breakdown-and-Delays/ez4e-fazm/about_data), containing detailed records of bus delays and breakdowns by route, bus company, borough, and weather conditions.
 
-Questions Answered / Objectives - The main questions explored in this project were: 1. What are the most common reasons for delays and breakdowns? 2. How do delay times vary by bus company and borough? 3. Is there a correlation between specific days of the week and the frequency of breakdowns or delays? 4. Are certain bus routes more prone to delays or breakdowns than others? 5. How do breakdowns or delays vary across different seasons?
+Questions Answered / Objectives - The main questions explored in this project were:
+
+1. What are the most common reasons for delays and breakdowns?
+2. How do delay times vary by bus company and borough?
+3. Is there a correlation between specific days of the week and the frequency of breakdowns or delays?
+4. Are certain bus routes more prone to delays or breakdowns than others?
+5. How do breakdowns or delays vary across different seasons?
 
 Methodology - To answer the questions, I followed these steps: - Data Preprocessing: Cleaned the dataset by handling missing values, outliers, and converting time-related columns into usable formats. - Exploratory Data Analysis (EDA): Used descriptive statistics, group-by operations, and visualizations (e.g., bar charts, heatmaps) to identify patterns. - Statistical Analysis: Applied forecasting and hypothesis testing to determine if certain factors significantly influenced delays and breakdowns.
 
