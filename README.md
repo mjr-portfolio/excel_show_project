@@ -39,7 +39,7 @@ How do breakdowns or delays vary across different seasons?
 
 Key Visualizations - 
 
-    ![Screenshot 2025-03-31 143654](https://github.com/user-attachments/assets/79c76598-d47e-4027-b247-7a95dec039e8)
+![Screenshot 2025-03-31 143654](https://github.com/user-attachments/assets/79c76598-d47e-4027-b247-7a95dec039e8)
 
 
 Technologies & Tools - 
